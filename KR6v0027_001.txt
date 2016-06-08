@@ -1,17 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:12.638411
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:07
 #+TITLE: 法華經文外義
 #+PROPERTY: CBETA_ID W02n0020
 #+PROPERTY: ID KR6v0027
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 02, No. 020
 #+PROPERTY: VOL 02
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0027_W_001-0293a> 
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 法華經文外義¶
 整理者　李際寧　張曉娟¶
 ¶
 
@@ -41,10 +41,9 @@
 <pb:KR6v0027_W_001-0294a>¶
 ¶
 
-錄文¶
+* 〔錄文〕¶
 ¶
-
- 法華經文外義¶
+法華經文外義¶
 ¶
 
 （前殘）¶
