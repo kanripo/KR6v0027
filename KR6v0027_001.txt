@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:12.638411
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:07
 #+TITLE: 法華經文外義
 #+PROPERTY: CBETA_ID W02n0020
 #+PROPERTY: ID KR6v0027
@@ -11,7 +11,7 @@
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 題解¶
 整理者　李際寧　張曉娟¶
 ¶
 
@@ -41,7 +41,7 @@
 <pb:KR6v0027_W_001-0294a>¶
 ¶
 
-錄文¶
+* 錄文¶
 ¶
 
  法華經文外義¶
